@@ -3,7 +3,7 @@
 // SamR CSC 207 Mini-project 1
 //
 
-public class CeaserCipher {
+public class CaeserCipher {
 
 	public static void main(String[] args) {
 			String plainText;
