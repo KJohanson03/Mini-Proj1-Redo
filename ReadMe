@@ -2,4 +2,4 @@ ReadMe file for mini project one
 Introduces two class files Caeser and VigenereCipher
 
 Both classes take in an input and return their respective cipher onto it.
-Both classes can encode and decode
+Both classes can encode and decode.
